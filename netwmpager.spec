@@ -2,7 +2,7 @@ Summary:	EWMH (NetWM) compatible pager
 Summary(pl.UTF-8):	Program stronicujący zgodny z EWMH (NetWM)
 Name:		netwmpager
 Version:	2.05
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://downloads.sourceforge.net/sf-xpaint/%{name}-%{version}.tar.bz2
